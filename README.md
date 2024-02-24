@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Hi 👋! My name is Shamim Khan<br>and I'm a Flutter Developer.</h1>
 
 ###
 
@@ -46,4 +46,3 @@
 <img src="https://raw.githubusercontent.com/Shamimkhan1406/Shamimkhan1406/output/snake.svg" alt="Snake animation" />
 
 ###
-
