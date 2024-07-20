@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://gifsec.com/wp-content/uploads/2022/11/smooth-anime-gif-13.gif]"  />
+<img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/11/smooth-anime-gif-13.gif"  />
 
 ###
 
